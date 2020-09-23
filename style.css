@@ -1,0 +1,56 @@
+li{
+    list-style-type: none;
+}
+
+#vest {
+    font-size: 50px;
+    text-align: center;
+    color:black;
+}
+
+#name {
+    text-align: center;
+    color:black;
+}
+
+.colum1, .colum2 {
+    font-size: 20px;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.colum1{
+    border: 10px;
+    border-color: black;
+    background-color: green;
+}
+.colum2{
+    border: 10px;
+    border-color: black;
+    background-color: red;
+}  
+
+.divs{
+    text-align: center;
+}
+
+#rightList {
+    font-size: 30px;
+}
+
+#wrongList {
+    font-size: 30px;
+}
+
+body{
+    background-color: white;
+}
+
+#img{
+    width: 281px;
+    height: 39px;
+}
