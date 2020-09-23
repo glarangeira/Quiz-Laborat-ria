@@ -1,1 +1,1 @@
-# Quiz-Laborat-ria
+# Quiz Laboratoria
